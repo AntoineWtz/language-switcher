@@ -19,7 +19,7 @@ The application uses React Context to manage the current language (English or Fr
 
 ## Demo
 
-
+https://antoinewtz.github.io/language-switcher/
 
 ## Technologies Used
 
