@@ -24,6 +24,7 @@ function AppContent() {
     <div className="App">
       <header className="App-header">
         <h1>{translations[language].header}</h1>
+        <p>{translations[language].text}</p>
         <LanguageToggle />
       </header>
     </div>
